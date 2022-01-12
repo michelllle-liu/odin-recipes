@@ -1,0 +1,18 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: palevioletred;
+    text-align: center;
+}
+
+h2 {
+    color: palevioletred;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
